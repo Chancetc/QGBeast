@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'QGBeast_Example' do
+  pod 'QGBeast', :path => '../'
+
+  target 'QGBeast_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
