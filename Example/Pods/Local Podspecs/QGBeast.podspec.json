@@ -1,0 +1,22 @@
+{
+  "name": "QGBeast",
+  "version": "0.1.0",
+  "summary": "A short description of QGBeast.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chancetc/QGBeast",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chancetc": "chance@iyinli.cn"
+  },
+  "source": {
+    "git": "https://github.com/chancetc/QGBeast.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QGBeast/Classes/**/*"
+}

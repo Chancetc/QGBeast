@@ -1,0 +1,6 @@
+framework module QGBeast {
+  umbrella header "QGBeast-umbrella.h"
+
+  export *
+  module * { export * }
+}

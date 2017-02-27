@@ -1,0 +1,16 @@
+PODS:
+  - QGBeast (0.1.0)
+
+DEPENDENCIES:
+  - QGBeast (from `../`)
+
+EXTERNAL SOURCES:
+  QGBeast:
+    :path: ../
+
+SPEC CHECKSUMS:
+  QGBeast: 2027204b747cbef6b39dd7946f11fe6e024b3668
+
+PODFILE CHECKSUM: 5218f21192ea3301b6a64d34a87a4a989dfc46ce
+
+COCOAPODS: 1.0.1
